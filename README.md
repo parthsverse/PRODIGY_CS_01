@@ -71,10 +71,6 @@ Shift             : 3
 Decrypted Message : Hello World
 ```
 
-## 📷 Screenshots
-
-Add screenshots of encryption and decryption inside the **screenshots** folder.
-
 ## 📖 Algorithm
 
 1. Take user input.
